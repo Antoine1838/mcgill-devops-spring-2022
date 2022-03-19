@@ -27,7 +27,7 @@ frontend:
   env:
     backendName: azure-vote-backend-master
     voteOption1: "Burger frites"
-    voteOption2: "Poutine"
+    voteOption2: "Large Poutine"
   imagePullSecrets: []
 
   podAnnotations: {}
